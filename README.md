@@ -4,18 +4,18 @@ Group Proposal
 
 Group: Eileen Dolan, Mark Palmese, Luciana Roberts, Rebeca Rodriguez
 
+Methods using: 
+  •	Python Pandas and Tableau
 
-•	Python Pandas and Tableau
+  •	Sci-Kit Learn (classification) 
 
-•	Sci-Kit Learn (classification) 
+    o	Random Forest Classifier
 
-o	Random Forest Classifier
+    o	Support Vector Classifier
 
-o	Support Vector Classifier
+    o	Grid Search CV
 
-o	Grid Search CV
-
-o	Cross Validation Score
+    o	Cross Validation Score
 
 Dataset: 
 wineQualityReds.csv 
