@@ -10,8 +10,11 @@ Group: Eileen Dolan, Mark Palmese, Luciana Roberts, Rebeca Rodriguez
 •	Sci-Kit Learn (classification) 
 
 o	Random Forest Classifier
+
 o	Support Vector Classifier
+
 o	Grid Search CV
+
 o	Cross Validation Score
 
 Dataset: 
